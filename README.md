@@ -1,6 +1,7 @@
 # tableau-dashboard
 
 **Overview**
+
 This Tableau dashboard provides a comprehensive analysis of customer reviews for Airways, offering insights into various performance metrics such as overall ratings, cabin staff service, entertainment, food and beverages, ground service, seat comfort, and value for money. The dashboard allows users to explore trends over time, compare ratings across aircraft types and countries, and filter data by seat type, traveler type, and other dimensions.
 
 **Key Features**
@@ -36,17 +37,20 @@ Aircraft Group: Focus on specific aircraft models.
 Continent: Narrow down data geographically.
 
 **How to Use**
+
 Select a metric from the "Pick a Metric" panel to view its specific trends and comparisons.
 Adjust the time range using the "Month of Date" slider to analyze historical data or recent trends.
 Use filters like "Seat Type" or "Traveler Type" to drill down into specific customer segments.
 Hover over visual elements (e.g., map regions or bars) for detailed tooltips with additional information.
 
 **Insights**
+
 The Boeing 747-400 received the highest overall rating (4.7) among all aircraft types.
 Entertainment has the lowest average score (1.4) across all metrics.
 Ratings vary significantly by country and traveler type, as shown in the heatmap and filter options.
 
 **Future Enhancements**
+
 Add sentiment analysis for customer reviews to complement quantitative insights.
 Include more granular filters such as flight routes or time of day.
 Integrate predictive analytics to forecast future trends in customer satisfaction.
